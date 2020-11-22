@@ -1,4 +1,4 @@
-package prac.string;
+package prac.string.day01;
 
 import java.util.Arrays;
 

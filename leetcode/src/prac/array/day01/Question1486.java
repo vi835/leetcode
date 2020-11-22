@@ -1,4 +1,4 @@
-package prac.array;
+package prac.array.day01;
 
 /**
  * 给你两个整数，n 和 start 。

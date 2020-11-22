@@ -1,4 +1,4 @@
-package prac.string;
+package prac.string.day01;
 
 /**
  * 给你两个字符串数组 word1 和 word2 。如果两个数组表示的字符串相同，返回 true ；否则，返回 false 。

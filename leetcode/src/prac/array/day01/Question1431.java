@@ -1,4 +1,4 @@
-package prac.array;
+package prac.array.day01;
 
 import java.util.ArrayList;
 import java.util.Arrays;
