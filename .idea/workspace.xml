@@ -31,13 +31,39 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Question1470">
+  <component name="RunManager" selected="Application.Question1221">
     <configuration name="Question0867" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac.array.day01.Question0867" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="prac.array.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question1221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac.string.day02.Question1221" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prac.string.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question1266" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac.array.day02.Question1266" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prac.array.day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,6 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question1221" />
+        <item itemvalue="Application.Question1266" />
         <item itemvalue="Application.Question1470" />
         <item itemvalue="Application.Question0867" />
       </list>
@@ -72,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606022170112</updated>
-      <workItem from="1606022173160" duration="21974000" />
+      <workItem from="1606022173160" duration="28232000" />
     </task>
     <servers />
   </component>
@@ -88,22 +116,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606057554544" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606037913081">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1606146508480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606037913081" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606037913081">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606146508480" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1606146508480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606037913081" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606037913080">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606146508480" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1606146508480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606037913080" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606037913081">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606146508480" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1606146508480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606037913081" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606146508480" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1606146508590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606146508590" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1606146508590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606146508590" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1606146508590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606146508590" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1606146508590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606146508590" />
     <state x="270" y="56" key="SettingsEditor" timestamp="1606051150245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -112,5 +156,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="401" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606051802101" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606138955824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606138955824" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/prac/string/day02/Question1221.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/prac/string/day02/Question1221.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

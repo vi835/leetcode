@@ -1,5 +1,8 @@
 package prac.array.day02;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * 给你两个整数数组 nums 和 index。你需要按照以下规则创建目标数组：
  * <p>
@@ -38,7 +41,14 @@ package prac.array.day02;
  */
 public class Question1389 {
     public int[] createTargetArray(int[] nums, int[] index) {
-        int[] target = new int[nums.length];
-        return nums;
+        List<Integer> list = new ArrayList<>();
+        for (int i = 0; i < index.length; i++) {
+            list.add(index[i], nums[i]);
+        }
+        int[] target = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            target[i] = list.get(i);
+        }
+        return target;
     }
 }
