@@ -31,13 +31,26 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Question1572">
+  <component name="RunManager" selected="Application.Question1085">
     <configuration name="Question0867" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac.array.day01.Question0867" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="prac.array.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac.array.day04.Question1085" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prac.array.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,19 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question1470" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac.array.day01.Question1470" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prac.array.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Question1572" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac.array.day03.Question1572" />
       <module name="leetcode" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question1085" />
         <item itemvalue="Application.Question1572" />
         <item itemvalue="Application.Question0867" />
         <item itemvalue="Application.Question1221" />
         <item itemvalue="Application.Question1266" />
-        <item itemvalue="Application.Question1470" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606022170112</updated>
       <workItem from="1606022173160" duration="32938000" />
+      <workItem from="1606831649880" duration="3779000" />
     </task>
     <servers />
   </component>
