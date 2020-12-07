@@ -39,6 +39,11 @@ import java.util.Arrays;
 public class Question1413 {
     public int minStartValue(int[] nums) {
         int sum = 0;
-        
+        int min = nums[0];
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            min = min < sum ? min : sum;
+        }
+        return min >= 0 ? 1 : min * -1 + 1;
     }
 }
