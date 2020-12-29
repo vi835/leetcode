@@ -123,7 +123,12 @@
       <workItem from="1607246410579" duration="1101000" />
       <workItem from="1607259382143" duration="5376000" />
       <workItem from="1607351779055" duration="2775000" />
-      <workItem from="1607435307795" duration="4548000" />
+      <workItem from="1607435307795" duration="5743000" />
+      <workItem from="1608453870293" duration="51796000" />
+      <workItem from="1608557034471" duration="114000" />
+      <workItem from="1608557191734" duration="9000" />
+      <workItem from="1608557274765" duration="311000" />
+      <workItem from="1609160102392" duration="5103000" />
     </task>
     <servers />
   </component>
@@ -214,16 +219,6 @@
           <url>file://$PROJECT_DIR$/leetcode/src/prac/array/day06/Question1184.java</url>
           <line>54</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/prac/array/day07/Question1588.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/prac/array/day07/Question1588.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/leetcode/src/prac/string/day03/Question0709.java</url>
