@@ -31,22 +31,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Question1365">
+  <component name="RunManager" selected="Application.Question1470">
     <configuration name="Question0026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac.array.day05.Question0026" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prac.array.day05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question0169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac.array.day05.Question0169" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question1470" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="re.day03.Question1470" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="re.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Question1588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac.array.day07.Question1588" />
       <module name="leetcode" />
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question1470" />
         <item itemvalue="Application.Question1365" />
         <item itemvalue="Application.Question1588" />
         <item itemvalue="Application.Question1184" />
         <item itemvalue="Application.Question0026" />
-        <item itemvalue="Application.Question0169" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <workItem from="1608557034471" duration="114000" />
       <workItem from="1608557191734" duration="9000" />
       <workItem from="1608557274765" duration="311000" />
-      <workItem from="1609160102392" duration="14060000" />
+      <workItem from="1609160102392" duration="21299000" />
     </task>
     <servers />
   </component>
@@ -152,38 +152,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606057554544" />
-    <state width="1493" height="256" key="GridCell.Tab.0.bottom" timestamp="1609255348277">
+    <state width="1493" height="256" key="GridCell.Tab.0.bottom" timestamp="1609337229467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609255348277" />
-    <state width="1493" height="256" key="GridCell.Tab.0.center" timestamp="1609255348276">
+    <state width="1493" height="256" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609337229467" />
+    <state width="1493" height="256" key="GridCell.Tab.0.center" timestamp="1609337229466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609255348276" />
-    <state width="1493" height="256" key="GridCell.Tab.0.left" timestamp="1609255348275">
+    <state width="1493" height="256" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609337229466" />
+    <state width="1493" height="256" key="GridCell.Tab.0.left" timestamp="1609337229466">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609255348275" />
-    <state width="1493" height="256" key="GridCell.Tab.0.right" timestamp="1609255348276">
+    <state width="1493" height="256" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609337229466" />
+    <state width="1493" height="256" key="GridCell.Tab.0.right" timestamp="1609337229467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609255348276" />
-    <state width="1493" height="166" key="GridCell.Tab.1.bottom" timestamp="1609251301508">
+    <state width="1493" height="256" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609337229467" />
+    <state width="1493" height="166" key="GridCell.Tab.1.bottom" timestamp="1609334838162">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="166" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609251301508" />
-    <state width="1493" height="166" key="GridCell.Tab.1.center" timestamp="1609251301508">
+    <state width="1493" height="166" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609334838162" />
+    <state width="1493" height="166" key="GridCell.Tab.1.center" timestamp="1609334838162">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="166" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609251301508" />
-    <state width="1493" height="166" key="GridCell.Tab.1.left" timestamp="1609251301508">
+    <state width="1493" height="166" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609334838162" />
+    <state width="1493" height="166" key="GridCell.Tab.1.left" timestamp="1609334838162">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="166" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609251301508" />
-    <state width="1493" height="166" key="GridCell.Tab.1.right" timestamp="1609251301508">
+    <state width="1493" height="166" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609334838162" />
+    <state width="1493" height="166" key="GridCell.Tab.1.right" timestamp="1609334838162">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="166" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609251301508" />
+    <state width="1493" height="166" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609334838162" />
     <state x="270" y="56" key="SettingsEditor" timestamp="1606051150245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -228,6 +228,11 @@
           <url>file://$PROJECT_DIR$/leetcode/src/re/day02/Question1365.java</url>
           <line>44</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/re/day03/Question1470.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/leetcode/src/prac/string/day03/Question0709.java</url>
