@@ -29,6 +29,6 @@ package re.day04;
  */
 public class Question1295 {
     public int findNumbers(int[] nums) {
-        Math.floor()
+        return 0;
     }
 }
