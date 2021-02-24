@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58542f42-842d-4b22-80ea-9dfe8b9ab523" name="Default Changelist" comment="" />
+    <list default="true" id="58542f42-842d-4b22-80ea-9dfe8b9ab523" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode/src/re/day06/Question0387.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/re/day01/Question1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/re/day01/Question1431.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../leetcode\exportToHTML" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="leetcode" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
       </list>
     </option>
   </component>
@@ -25,19 +45,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Question1266">
-    <configuration name="Question1184" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac.array.day06.Question1184" />
+  <component name="RunManager" selected="Application.Question0482">
+    <configuration name="Question0482" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="re.day06.Question0482" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac.array.day06.*" />
+          <option name="PATTERN" value="re.day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question0976" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="re.day06.Question0976" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="re.day06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question1365" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="re.day02.Question1365" />
+    <configuration name="Question1309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="re.day05.Question1309" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="re.day02.*" />
+          <option name="PATTERN" value="re.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,29 +117,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question1588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac.array.day07.Question1588" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prac.array.day07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question0482" />
+        <item itemvalue="Application.Question0976" />
+        <item itemvalue="Application.Question1309" />
         <item itemvalue="Application.Question1266" />
         <item itemvalue="Application.Question1470" />
-        <item itemvalue="Application.Question1365" />
-        <item itemvalue="Application.Question1588" />
-        <item itemvalue="Application.Question1184" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="58542f42-842d-4b22-80ea-9dfe8b9ab523" name="Default Changelist" comment="" />
@@ -131,77 +152,24 @@
       <workItem from="1609160102392" duration="21299000" />
       <workItem from="1609848398865" duration="15000" />
       <workItem from="1609853112915" duration="5117000" />
+      <workItem from="1610101755447" duration="604000" />
+      <workItem from="1610270370815" duration="365000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1606022174691">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1606022174691" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606213997665">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606213997665" />
-    <state x="544" y="305" width="448" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606213781821">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="544" y="305" width="448" height="221" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1606213781821" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606057554544">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606057554544" />
-    <state width="1493" height="320" key="GridCell.Tab.0.bottom" timestamp="1609857481797">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="320" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609857481797" />
-    <state width="1493" height="320" key="GridCell.Tab.0.center" timestamp="1609857481797">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="320" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609857481797" />
-    <state width="1493" height="320" key="GridCell.Tab.0.left" timestamp="1609857481797">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="320" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609857481797" />
-    <state width="1493" height="320" key="GridCell.Tab.0.right" timestamp="1609857481797">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="320" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609857481797" />
-    <state width="1493" height="320" key="GridCell.Tab.1.bottom" timestamp="1609857481797">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="320" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609857481797" />
-    <state width="1493" height="320" key="GridCell.Tab.1.center" timestamp="1609857481797">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="320" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609857481797" />
-    <state width="1493" height="320" key="GridCell.Tab.1.left" timestamp="1609857481797">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="320" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609857481797" />
-    <state width="1493" height="320" key="GridCell.Tab.1.right" timestamp="1609857481797">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="320" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609857481797" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1606051150245">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606051150245" />
-    <state x="467" y="144" width="602" height="536" key="find.popup" timestamp="1609255535450">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="467" y="144" width="602" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1609255535450" />
-    <state x="401" y="22" key="new project wizard" timestamp="1606051802101">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="401" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606051802101" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606138955824">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606138955824" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -240,6 +208,11 @@
           <url>file://$PROJECT_DIR$/leetcode/src/re/day04/Question1266.java</url>
           <line>33</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/re/day06/Question0482.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/leetcode/src/prac/string/day03/Question0709.java</url>

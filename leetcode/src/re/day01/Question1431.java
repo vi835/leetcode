@@ -21,7 +21,7 @@ import java.util.List;
  * 示例 2：
  * 输入：candies = [4,2,1,1,2], extraCandies = 1
  * 输出：[true,false,false,false,false]
- * 解释：只有 1 个额外糖果，所以不管额外糖果给谁，只有孩子 1 可以成为拥有糖果最多的孩子。
+ * 解释：只有 1 个额外糖果，所以不管额外 糖果给谁，只有孩子 1 可以成为拥有糖果最多的孩子。
  * <p>
  * 示例 3：
  * 输入：candies = [12,1,12], extraCandies = 10
