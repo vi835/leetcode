@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58542f42-842d-4b22-80ea-9dfe8b9ab523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/src/re/day06/Question0387.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/re/day01/Question1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/re/day01/Question1431.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/re/day07/Question1165.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/re/day07/Question1165.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +23,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GroovyConsoleState">
-    <option name="list">
-      <list>
-        <Entry>
-          <option name="moduleName" value="leetcode" />
-          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
-        </Entry>
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1kdEfNBpnw71SAaOsyle2v8T9PB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,11 +34,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.Question0482">
     <configuration name="Question0482" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -154,11 +143,14 @@
       <workItem from="1609853112915" duration="5117000" />
       <workItem from="1610101755447" duration="604000" />
       <workItem from="1610270370815" duration="365000" />
+      <workItem from="1614262721667" duration="311000" />
+      <workItem from="1614263047444" duration="208000" />
+      <workItem from="1614263271598" duration="2170000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -170,6 +162,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
