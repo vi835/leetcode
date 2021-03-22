@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58542f42-842d-4b22-80ea-9dfe8b9ab523" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/re/day07/Question1165.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/re/day07/Question1165.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +105,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Question0482" />
@@ -145,7 +155,8 @@
       <workItem from="1610270370815" duration="365000" />
       <workItem from="1614262721667" duration="311000" />
       <workItem from="1614263047444" duration="208000" />
-      <workItem from="1614263271598" duration="2170000" />
+      <workItem from="1614263271598" duration="2769000" />
+      <workItem from="1616420173472" duration="1419000" />
     </task>
     <servers />
   </component>
